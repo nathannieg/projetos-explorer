@@ -11,3 +11,4 @@ Repositório para organização dos projetos desenvolvidos ao longo do Explorer,
 ### [1. Formulário de Cadastro](https://github.com/nathannieg/formulario-cadastro)
 ### [2. Página responsiva com animação e grid](https://github.com/nathannieg/spacecream-responsive)
 ### [3. Jogo da adivinhação](https://github.com/nathannieg/jogo-da-adivinhacao)
+### [4. Cálculo de IMC](https://github.com/nathannieg/calculo-imc)
