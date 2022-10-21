@@ -14,6 +14,8 @@ Repositório para organização dos projetos desenvolvidos ao longo do Explorer,
 ### [4. Cálculo de IMC](https://github.com/nathannieg/calculo-imc)
 
 
+
+
 ## Outros eventos Rocketseat
 
 ### [Explorer Lab - RocketPay](https://github.com/nathannieg/explorer-lab)
