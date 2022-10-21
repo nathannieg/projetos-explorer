@@ -14,7 +14,8 @@ Repositório para organização dos projetos desenvolvidos ao longo do Explorer,
 ### [4. Cálculo de IMC](https://github.com/nathannieg/calculo-imc)
 <br>
 <br>
-## Outros eventos Rocketseat
+
+## Eventos e Projetos Extras
 
 ### [Explorer Lab - RocketPay](https://github.com/nathannieg/explorer-lab)
 O RocketPay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via JavaScript DOM.
