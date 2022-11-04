@@ -19,3 +19,7 @@ Repositório para organização dos projetos desenvolvidos ao longo do Explorer,
 
 ### [Explorer Lab - RocketPay](https://github.com/nathannieg/explorer-lab)
 O RocketPay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via JavaScript DOM.
+### [Calendário de Jogos da Copa do Mundo](https://github.com/nathannieg/calendario-de-jogos-copa)
+O Calendário de Jogos é uma página web que permite acessar o dia e horário de jogos da Copa do Mundo que sejam do meu interesse.
+
+
